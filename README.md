@@ -1,4 +1,4 @@
-# ihc-harwhere-proto
+# ihc-hardwhere-proto
 prototipo em baixa da aula de ihc
 
 teste as telas:
